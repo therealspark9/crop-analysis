@@ -1,5 +1,5 @@
 # crop-analysis
-India's crops analyzed and predictions done using linear regression
+Data Science project : India's crops analyzed and predictions done using linear regression
 
 Libraries used: Python's matplotlib
 
